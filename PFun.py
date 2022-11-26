@@ -8,7 +8,7 @@ high_score = 0
   
 # Here we will be creating a window screen  
 w_n = ttl.Screen()  
-w_n.title("Snake Game JavaTpoint")  
+w_n.title("Snake Game")  
 w_n.bgcolor("black")  
    
 # The width and height can be put as user's choice  
